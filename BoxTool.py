@@ -4,7 +4,7 @@ import math
 
 parser = argparse.ArgumentParser(
                     prog='Python Boombox Tools',
-                    description='What the program does',)
+                    description='Read Readme',)
                     
 parser.add_argument('-c', '--cut', action='store_true')
 parser.add_argument('-f', '--fill', action='store_true')
